@@ -6,6 +6,7 @@ on:
     branches:
       - main
 
+
 env:
   SIMULATION: native
   ENABLE_UNIT_TESTS: true
